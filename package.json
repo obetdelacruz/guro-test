@@ -1,0 +1,22 @@
+{
+  "name": "guro-backend",
+  "version": "0.0.1",
+  "description": "A teacher-focused database platform for efficient resource management, collaboration, and personalized instruction, enhancing student learning outcomes and help teachers' workload become lighter.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/obetdelacruz/guro-backend.git"
+  },
+  "author": "Angelo Lim, Benjie Angeles, and Lobert Dela Cruz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obetdelacruz/guro-backend/issues"
+  },
+  "homepage": "https://github.com/obetdelacruz/guro-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
